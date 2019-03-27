@@ -39,7 +39,7 @@ public class TreeSetTest {
 			t=t+time;
 			if(b == true && i == n-1) {
 
-				System.out.println("查找时间:"+t+"ms");
+				System.out.println("查找的时间:"+t+"ms");
 			
 			}
 		}
